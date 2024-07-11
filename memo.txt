@@ -1,0 +1,26 @@
+全国高校webコンテスト
+
+サイト：https://contest.japias.jp/tqj24/240313G/
+作品：https://webcon.japias.jp/page-library_24.html
+
+
+OPEN HUCK U ONLINE 2023
+
+チーム雛たち
+サイト：https://hacku.yahoo.co.jp/hacku2023_online/
+Git Hub:https://github.com/Naoya-Yasuda/HackU2023_project
+
+
+プロトタイプ
+
+React：https://github.com/kimikounari/appFront-end
+Express:https://github.com/NK-kimiya/appSocket
+Django:https://github.com/NK-kimiya/appBackend
+Unity:https://github.com/kimikounari/VRApp
+
+FontAwsome
+
+サイトリンク：<i class="fa-solid fa-link">
+ページリンク：<i class="fa-solid fa-file-word">
+
+GitHub:<i class="fa-brands fa-github">

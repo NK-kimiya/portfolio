@@ -1,0 +1,62 @@
+#prototype-wrap {
+    width: 100%;
+    margin: 60px auto;
+}
+
+#prototype-wrap h3 {
+    font-size: 50px;
+    margin: 60px 0px;
+    text-align: center;
+}
+
+video {
+    display: block;
+    height: auto;
+    width: 500px;
+    height: 300px;
+    margin: 20px auto;
+}
+
+#prototype-wrap p {
+    width: 500px;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+#vr-comunication-app-content {
+    width: 60%;
+    margin: 5px auto;
+}
+
+#vr-comunication-app-content h4 {
+    width: 300px;
+    margin: 30px auto;
+    border-bottom: solid 3px black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 800px) {
+    video {
+        width: 80%;
+        height: auto;
+    }
+
+    #prototype-wrap p {
+        width: 80%;
+    }
+}
+
+@media (max-width: 450px) {
+    #vr-comunication-app-content h4 {
+        width: 100%;
+    }
+
+    video {
+        width: 100%;
+    }
+
+    #prototype-wrap p {
+        width: 100%;
+    }
+}

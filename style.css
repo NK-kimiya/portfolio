@@ -1,0 +1,77 @@
+header {
+    border-bottom: solid 1px black;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0px;
+}
+
+nav ul li {
+    padding: 20px;
+}
+
+nav ul li a {
+    color: black;
+}
+
+#about-area {
+    width: 80%;
+    margin: 60px auto;
+}
+
+#about-area p {
+    font-size: 30px;
+}
+
+#about-area h3 {
+    font-size: clamp(48px, 7vw, 84px);
+}
+
+#about-area button {
+    display: block;
+    background-color: black;
+    width: 200px;
+    height: 50px;
+}
+
+#about-area ul li {
+    font-size: 25px;
+}
+
+#about-area button a {
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+footer small {
+    display: block;
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+@media (max-width: 750px) {
+
+    nav ul {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    nav ul li {
+        width: 50%;
+        background-color: black;
+        border: solid 1px white;
+        text-align: center;
+    }
+
+    nav ul li a {
+        color: white;
+        text-decoration: none;
+    }
+}
