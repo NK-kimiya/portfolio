@@ -118,6 +118,10 @@
     .text-area {
         height: auto;
     }
+
+    button {
+        height: auto !important;
+    }
 }
 
 
@@ -129,4 +133,6 @@
     .text-area {
         width: 100%;
     }
+
+
 }
