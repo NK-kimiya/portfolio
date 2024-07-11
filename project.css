@@ -57,10 +57,12 @@
 
 .btn-top a {
     color: white;
+    display: block;
 }
 
 .btn-bottom a {
     color: black;
+    display: block;
 }
 
 .special-btn-top-area {
@@ -79,6 +81,7 @@
 
 .special-btn-top-area button a {
     color: white;
+    display: block;
 }
 
 .special-btn-area {
@@ -91,6 +94,10 @@
 .special-btn-area button {
     width: 48%;
     margin: 0px;
+}
+
+.special-btn-area button a {
+    display: block;
 }
 
 @media (max-width: 1400px) {
@@ -120,7 +127,12 @@
     }
 
     button {
-        height: auto !important;
+        min-height: 50px;
+    }
+
+    .special-btn-top-area button,
+    .special-btn-area button {
+        height: auto;
     }
 }
 

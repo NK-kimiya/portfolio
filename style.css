@@ -74,4 +74,10 @@ footer small {
         color: white;
         text-decoration: none;
     }
+
+    #about-area button {
+        display: block;
+        width: 80%;
+        margin: 0px auto;
+    }
 }
