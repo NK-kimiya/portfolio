@@ -65,41 +65,6 @@
     display: block;
 }
 
-.special-btn-top-area {
-    display: flex;
-    width: 80%;
-    margin: 10px auto;
-    justify-content: space-between;
-}
-
-.special-btn-top-area button {
-    width: 48%;
-    margin: 0px;
-    background-color: black;
-    color: white !important;
-}
-
-.special-btn-top-area button a {
-    color: white;
-    display: block;
-}
-
-.special-btn-area {
-    display: flex;
-    width: 80%;
-    margin: 10px auto;
-    justify-content: space-between;
-}
-
-.special-btn-area button {
-    width: 48%;
-    margin: 0px;
-}
-
-.special-btn-area button a {
-    display: block;
-}
-
 @media (max-width: 1400px) {
 
     .project-wrap {
