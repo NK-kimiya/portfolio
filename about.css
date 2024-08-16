@@ -37,9 +37,18 @@
     text-decoration: none;
 }
 
+.voice-credit {
+    margin: 100px auto;
+    text-align: center;
+}
+
+.open-badge-area {
+    text-align: center;
+}
+
 @media (max-width: 470px) {
     .btn-bottom a {
         padding: 5px 10px;
-        font-size: 20px;
+        font-size: 16px;
     }
 }
